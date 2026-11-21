@@ -14,8 +14,10 @@
     }
   },
   "bundle": {
-    "active": true,
-    "targets": ["nsis"],
-    "shortDescription": "تطبيق جرد زنوبيا الآمن"
-  }
+  "active": true,
+  "icon": [
+    "icons/zanobia-inventory.ico"
+  ],
+  "targets": ["nsis"],
+  "shortDescription": "تطبيق جرد زنوبيا الآمن"
 }
