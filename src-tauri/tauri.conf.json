@@ -1,0 +1,21 @@
+
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "جرد زنوبيا",
+  "version": "1.0.0",
+  "identifier": "com.zanobia.inventory",
+  "build": {
+    "frontendDist": "../dist"
+  },
+  "app": {
+    "windows": [],
+    "security": {
+      "csp": null
+    }
+  },
+  "bundle": {
+    "active": true,
+    "targets": ["nsis"],
+    "shortDescription": "تطبيق جرد زنوبيا الآمن"
+  }
+}
