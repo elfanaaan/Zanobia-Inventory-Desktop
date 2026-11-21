@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "identifier": "com.zanobia.inventory",
   "build": {
-    "frontendDist": "../dist"
+    "frontendDist": "https://script.google.com/macros/s/AKfycbxHpLGmHxCzLoX1Qq5SGTxUDR5V_dTVVmdGUXAPyHzJkL0BtXLYkCh9NfJ0J5Septg0/exec"
   },
   "app": {
     "windows": [],
